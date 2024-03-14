@@ -7,15 +7,16 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 1    | Github Account Created                      | https://github.com/enitsuj23                                              | 
+| 1    | Github Profile Page                         | https://github.com/enitsuj23/enitsuj23                                   |
+| 1    | Commit and Push Change from Command Line    |  https://github.com/enitsuj23/ppchem/commit/df73d46add6217727a1512c664058f5604fbc697               |
+| 1    | Create a New Branch                         | https://github.com/enitsuj23/ppchem/tree/cookies           |
+| 1    | Create a conda environment                  | https://github.com/enitsuj23/ppchem/blob/main/env.yml      |
+| 1    | Fork a Repo                                 | https://github.com/enitsuj23/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | https://github.com/eilaroc32/ppchem/pull/2|
+| 2    | (Optional) Review a Pull Request            | https://github.com/enitsuj23/ppchem/pull/1#issuecomment-1971269208|
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/enitsuj23/ppchem/pull/2 |
+
 
 **More milestones will be added throughout the course.**
 
